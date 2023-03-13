@@ -9,7 +9,7 @@ Email&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;: &ensp;adyatmaardi@gmail.com <br>
 LinkedIn&ensp;&ensp; :&ensp; https://www.linkedin.com/in/adyatmaardi/ <br>
 </h6>
 <hr>
-<div>
+<div align="justify">
 <h4>Prerequisites :</h4>
 <ol>
   <li> Install necessary Python-module 
@@ -28,7 +28,7 @@ LinkedIn&ensp;&ensp; :&ensp; https://www.linkedin.com/in/adyatmaardi/ <br>
 </ol>
 </div>
 <hr>
-<div>
+<div align="justify">
 <h4>Data preparation</h4>
   <ol>
     <li>NumPy array
@@ -79,7 +79,7 @@ LinkedIn&ensp;&ensp; :&ensp; https://www.linkedin.com/in/adyatmaardi/ <br>
   </ol>
 </div>
 <hr>
-<div>
+<div align="justify">
 <h4>Objectives :</h4>
 <ol>
   <li>Descriptive statistics
