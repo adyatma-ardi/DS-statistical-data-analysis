@@ -113,7 +113,7 @@ LinkedIn&ensp;&ensp; :&ensp; https://www.linkedin.com/in/adyatmaardi/ <br>
         &ensp;&ensp;&ensp;&ensp; (4.3) No linear relationship (CC = 0)<br>
         </li>
         <li>Perform simple linear regression analysis<br>
-        &ensp;&ensp;(1) Data preparation (extract and rename data from existing Pandas DataFrame)<br>
+        &ensp;&ensp;(1) Data preparation<br>
         &ensp;&ensp;(2) Plot the given data points<br>
         &ensp;&ensp;(3) Add needed columns (x-x̄), (y-ȳ), (x-x̄)*(y-ȳ), (x-x̄)^2, (y-ȳ)^2<br>
         &ensp;&ensp;(4) Sum up (x-x̄)*(y-ȳ), (x-x̄)^2, (y-ȳ)^2 columns<br>
