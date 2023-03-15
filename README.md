@@ -14,7 +14,7 @@ LinkedIn&ensp;&ensp; :&ensp; https://www.linkedin.com/in/adyatmaardi/ <br>
 <ol>
   <li> Install necessary Python-module 
         <ul>
-          <li><a href ="https://pypi.org/project/statistics/">statistics</a> (built-in) module - used to calculate mathematical statistics of numeric data. <br>install >>> [pip install statistics]</li>
+          <li><a href ="https://pypi.org/project/statistics/" target="_blank">statistics</a> (built-in) module - used to calculate mathematical statistics of numeric data. <br>install >>> [pip install statistics]</li>
           <li><a href ="https://pypi.org/project/python-math/">math</a> module - Used to perform various mathematical calculations, such as numeric, trigonometric, logarithmic, and exponential calculations. <br>install >>> [pip install python-math]</li>
           <li><a href ="https://numpy.org/install/">numpy</a> module - used to perform a wide variety of mathematical operations on arrays. <br>install >>> [pip install numpy]</li>
           <li><a href ="https://pandas.pydata.org/docs/getting_started/install.html">pandas</a> module - It provides ready to use high - performance data structures and data analysis tools. It runs on top of NumPy and it is popularly used for data science and data analytics. <br>install >>> [pip install pandas]</li>
