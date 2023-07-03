@@ -1,4 +1,5 @@
 # statistical-data-analysis
+Data Science Project
 <p align="justify">
 Statistical data analysis is a wide range of quantitative research practices in which you collect and analyze categorical data to find meaningful patterns and trends. Statistical data analysis is often applied to survey responses and observational data, but it can be applied to many other business metrics as well. In this project I will do an analysis with a statistical approach. This is especially useful on variables with numeric values 
 </p>
